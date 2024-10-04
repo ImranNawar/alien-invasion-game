@@ -30,7 +30,7 @@ In Alien Invasion, the player controls a ship that appears at the bottom center 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/alien-invasion.git
+   git clone https://github.com/ImranNawar/alien-invasion-game.git
 2. Install pygame if not already installed::
    ```bash
    pip install pygame
